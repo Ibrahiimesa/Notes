@@ -41,10 +41,6 @@ public class NoteRepository {
         return noteDao.getNoteById(noteId);
     }
 
-//    public Note getNoteById(int noteId) {
-//        return noteDao.getNoteById(noteId);
-//    }
-
     // AsyncTask classes for database operations
     private static class InsertNoteAsyncTask extends AsyncTask<Note, Void, Void> {
         private NoteDao noteDao;

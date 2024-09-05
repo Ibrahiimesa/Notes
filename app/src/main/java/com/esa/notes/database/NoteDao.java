@@ -27,7 +27,5 @@ public interface NoteDao {
     @Query("SELECT * FROM notes_table WHERE id = :noteId LIMIT 1")
     LiveData<Note> getNoteById(int noteId);
 
-//    @Query("SELECT * FROM notes_table WHERE id = :noteId LIMIT 1")
-//    Note getNoteById(int noteId);
 }
 
