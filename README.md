@@ -11,6 +11,7 @@ Room Database: Uses Room with SQLite for local data storage.
 
 ## App Structure
 The app is structured as follows:
+```
 ├── database
 │   ├── Note.java                 # Data model class for Note
 │   ├── NoteDao.java              # DAO (Data Access Object) interface for database operations
@@ -25,6 +26,6 @@ The app is structured as follows:
     ├── MainActivity.java         # Main activity hosting the fragments
     ├── NoteAdapter.java          # RecyclerView Adapter for displaying list of notes
     └── SecondFragment.java       # Fragment for adding or editing a note
-
+```
 
 
