@@ -27,6 +27,12 @@ The app is structured as follows:
     └── SecondFragment.java       # Fragment for adding or editing a note
 ```
 
+
+
+https://github.com/user-attachments/assets/b7038ada-b0d2-474a-91f5-36f82ff36ede
+
+
+
 [Download Here](https://drive.google.com/file/d/1SBs3sK5G-ZYQRsCDQJGiyI5sA3egOBvG/view?usp=drive_link)
 
 
