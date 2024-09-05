@@ -7,8 +7,6 @@ Add Notes: Users can add new notes with a title and description.
 Edit Notes: Existing notes can be modified.
 Delete Notes: Users can delete notes using an icon on each list item.
 View All Notes: Notes are displayed in a list format on the home screen.
-MVVM Architecture: The app uses MVVM architecture for clean separation of concerns.
-Room Database: Uses Room with SQLite for local data storage.
 ```
 ## App Structure
 The app is structured as follows:
